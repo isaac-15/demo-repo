@@ -1,3 +1,3 @@
 # Demo
 
-Learning git/github
+Learning git and github
