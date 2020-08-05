@@ -2,6 +2,6 @@
 
 Learning git and github
 
-##subheader
+## subheader
 
 I'm learning
